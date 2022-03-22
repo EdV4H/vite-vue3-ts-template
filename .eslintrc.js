@@ -35,6 +35,7 @@ module.exports = {
       },
     ],
     'unused-imports/no-unused-imports-ts': 'error',
+    'no-unused-vars': 'warning',
   },
   settings: {
     'import/resolver': {

@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 
-import Home from '../pages/Home/index.vue';
-import Inspire from '../pages/Inspire/index.vue';
+import Home from '../pages/Home/HomePage.vue';
+import Inspire from '../pages/Inspire/InspirePage.vue';
 
 const routes = [
   { path: '/', name: 'home', component: Home },
