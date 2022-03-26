@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils';
-import HelloWorld from '@/components/HelloWorld.vue';
+import HelloWorld from '@/components/molecules/Helloworld/HelloWorld.vue';
 import { test, expect } from 'vitest';
 
 test('Initial display', () => {
