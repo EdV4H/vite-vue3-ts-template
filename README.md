@@ -9,3 +9,4 @@ Vite で作成した Vue3 + Typescript のプロジェクトに linter や test 
 - typescript
 - eslint ( + Airbnb) + prettier
 - vitest
+- vite-plugin-pages

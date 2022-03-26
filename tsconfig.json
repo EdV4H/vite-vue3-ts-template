@@ -13,6 +13,7 @@
     "lib": ["esnext", "dom"],
     "noEmit": true,
     "baseUrl": "./",
+    "types": ["vite-plugin-pages/client"],
     "paths": {
       "*": ["*"],
       "@/*": ["src/*"]
